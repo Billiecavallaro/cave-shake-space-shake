@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://billiecavallaro.github.io/cave-shake-space-shake/sitemap.xml
